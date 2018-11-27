@@ -31,7 +31,7 @@ android {
 
 
         release {
-            storeFile file('\\yeji\\Desktop\\EmotionFinal-masterSample\\Sample\\app\\test.jks')
+            storeFile file('\\yeji\\Desktop\\EMO_FINAL\\Sample\\app\\test.jks')
             // 기준은 App 폴더 기준이다.
 
             storePassword "960727"
